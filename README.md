@@ -1,2 +1,2 @@
 # SQL-practice
-SQL practice in Microsoft SQL Sever Mangement Studio (Begin to Advantages)
+SQL practice in Microsoft SQL Sever Management Studio (Begin to Advance)
