@@ -24,3 +24,6 @@ END AS Increments
 FROM SQLTutorial.dbo.EmployeeDemographics
 JOIN SQLTutorial.dbo.EmployeeSalary
 	 ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
+
+
+SELECT * FROM SQLTutorial.dbo.EmployeeDemographics
